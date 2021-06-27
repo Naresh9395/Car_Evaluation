@@ -1,5 +1,5 @@
 # Car_Evaluation
-In the attached dataset is a imbalanced data set and we have 6 independent variables and one dependent variable which is categorical
+The attached dataset is a imbalanced data set and we have 6 independent variables and one dependent variable which is categorical
 In this project we need to categerize the car, depends on its features present in the dataset.
 I have done some regular parctices like to find some ststistical summary of the data set, and the data types of each column etc.
 I have done some Explorartory data analysis
