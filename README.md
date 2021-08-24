@@ -5,7 +5,7 @@ I have done some regular parctices like to find some ststistical summary of the 
 I have done some Explorartory data analysis
 As this is the imbalanced data set i have performed some SMOTE technique to balance data.
 After that i have applied all classification models with and with out SMOTE thechnique and observed accuracy, confusion matrices, crrosstab and classification reports.
-I found Logistic regeression gave very less accuracy so that i have done hyper parameter tuning for that algorithm
+I found Logistic regeression gave very less accuracy so that i have done hyper parameter tuning for that algorithm.
 ![Outcome](https://user-images.githubusercontent.com/75720743/123532385-5fc0c800-d72a-11eb-8d3b-346ee0c4d219.PNG)
 ![Outcome vs buying](https://user-images.githubusercontent.com/75720743/123532388-63544f00-d72a-11eb-9144-68670bad0015.PNG)
 ![Pie Chart](https://user-images.githubusercontent.com/75720743/123532398-7535f200-d72a-11eb-97e4-5f9d56e5e18d.PNG)
